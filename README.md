@@ -1,2 +1,2 @@
 # PhysicsSimulation
-Simulating interactions without using Unity's built-in physics features
+Simulating interactions without using Unity's built-in physics 
